@@ -1,2 +1,3 @@
 Ligne 1 : initialiser
-Ligne 2 : 
+Ligne 2 : ligne 2
+Ligne 3
